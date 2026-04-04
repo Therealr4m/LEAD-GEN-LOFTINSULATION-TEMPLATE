@@ -1,0 +1,26 @@
+<div class="faq-item">
+<h3>Can loft insulation help reduce heating costs?</h3>
+<p>By slowing the rate at which heat escapes through the roof, improved insulation depth can help homes retain warmth for longer.</p>
+</div>
+
+<div class="faq-item">
+<h3>Will my loft still be usable after insulation is topped up?</h3>
+<p>Yes, although adjustments may be needed if loft boards or stored items currently restrict insulation depth.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation need to be removed before topping up?</h3>
+<p>Not usually. If the existing insulation is dry and stable, new insulation can simply be installed on top.</p>
+</div>
+
+<div class="faq-item">
+<h3>How much heat can escape through the roof?</h3>
+<p>In poorly insulated homes, around a quarter of total heat loss can occur through the roof.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can loft insulation help keep rooms warmer?</h3>
+<p>Increasing insulation depth helps stabilise indoor temperatures by slowing heat loss through the roof structure.</p>
+</div>
+
+

@@ -1,0 +1,25 @@
+<div class="faq-item">
+<h3>How do I know if my loft insulation needs topping up?</h3>
+<p>If your insulation depth measures well below the recommended 270mm but remains dry and in good condition, a loft insulation top-up can usually improve thermal performance without needing a full replacement.</p>
+</div>
+
+<div class="faq-item">
+<h3>What depth should loft insulation be after a top-up?</h3>
+<p>Current UK guidance generally recommends around 270mm of insulation depth. A loft insulation top-up increases the existing layer to reach this level and improve heat retention.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can new insulation be added on top of existing insulation?</h3>
+<p>Yes, provided the current insulation is dry, stable and not heavily compressed. A top-up is specifically designed to increase the thickness of the existing insulation layer.</p>
+</div>
+
+<div class="faq-item">
+<h3>Will a loft insulation top-up make a noticeable difference?</h3>
+<p>Most homeowners notice improved warmth retention during colder months as the increased insulation depth slows heat escaping through the roof.</p>
+</div>
+
+<div class="faq-item">
+<h3>Do older homes benefit from insulation top-ups?</h3>
+<p>Many older homes still have insulation installed when recommended depths were much lower, which makes them ideal candidates for a loft insulation top-up.</p>
+</div>
+

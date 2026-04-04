@@ -1,0 +1,24 @@
+<div class="faq-item">
+<h3>What happens if my loft insulation is uneven?</h3>
+<p>Uneven insulation is common in older lofts. During a loft insulation top-up the existing material is usually levelled before new insulation is installed.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can I install a loft insulation top-up myself?</h3>
+<p>While it is possible, many homeowners prefer professional installation to ensure insulation is installed evenly and ventilation remains clear.</p>
+</div>
+
+<div class="faq-item">
+<h3>Will topping up insulation improve energy efficiency?</h3>
+<p>Increasing insulation depth reduces the rate at which heat escapes through the roof, which helps the property retain warmth more efficiently.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation settle over time?</h3>
+<p>Some insulation materials can compress or shift slightly over the years, which is one reason loft insulation top-ups are often needed.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is loft insulation installed between or over the joists?</h3>
+<p>During a top-up, insulation is usually installed both between and across ceiling joists to build consistent depth.</p>
+</div>

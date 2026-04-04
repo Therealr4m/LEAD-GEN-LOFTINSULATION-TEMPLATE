@@ -1,0 +1,26 @@
+<div class="faq-item">
+<h3>Can loft insulation reduce cold spots in the home?</h3>
+<p>By reducing heat escaping through the roof, insulation improvements can help create a more balanced indoor temperature.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is loft insulation installed above the ceiling?</h3>
+<p>Yes, insulation is typically installed across the loft floor rather than inside the roof rafters.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation affect summer temperatures?</h3>
+<p>Insulation primarily reduces winter heat loss but can also help slow heat entering the home during warmer periods.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can insulation be added around roof timbers?</h3>
+<p>Yes, insulation is positioned carefully between and across structural timbers during installation.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is loft insulation considered an energy efficiency upgrade?</h3>
+<p>Yes, improving loft insulation depth is one of the most common ways to improve home energy efficiency.</p>
+</div>
+
+

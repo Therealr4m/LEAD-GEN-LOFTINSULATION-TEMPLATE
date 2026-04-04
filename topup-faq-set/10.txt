@@ -1,0 +1,24 @@
+<div class="faq-item">
+<h3>Why is loft insulation considered important?</h3>
+<p>The roof is one of the main areas where heat escapes from a property, so improving insulation helps reduce energy loss.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can insulation help maintain indoor warmth?</h3>
+<p>Yes, insulation slows heat escaping through the roof which helps rooms stay warmer for longer.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation work in all roof structures?</h3>
+<p>Most loft structures can accommodate insulation, although installation methods may vary slightly.</p>
+</div>
+
+<div class="faq-item">
+<h3>Will a loft insulation top-up improve comfort?</h3>
+<p>Improving insulation depth can make indoor temperatures more stable throughout colder months.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is a loft insulation top-up disruptive?</h3>
+<p>Most top-up installations are completed with minimal disruption because work takes place inside the loft space.</p>
+</div>

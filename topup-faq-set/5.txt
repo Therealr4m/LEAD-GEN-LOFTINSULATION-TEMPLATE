@@ -1,0 +1,24 @@
+<div class="faq-item">
+<h3>How is loft insulation depth measured?</h3>
+<p>Insulation depth is measured from the top of the ceiling joists to the surface of the insulation layer.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is 270mm insulation always necessary?</h3>
+<p>270mm is the commonly recommended depth for achieving strong thermal performance in most UK lofts.</p>
+</div>
+
+<div class="faq-item">
+<h3>What type of insulation is used for top-ups?</h3>
+<p>Mineral wool insulation rolls are commonly used because they allow additional depth to be installed evenly across the loft floor.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does loft insulation improve comfort during winter?</h3>
+<p>Yes, increasing insulation depth slows heat escaping through the roof which helps maintain warmer indoor temperatures.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can loft insulation affect condensation?</h3>
+<p>When installed correctly while maintaining ventilation, insulation can help stabilise temperature differences that contribute to condensation.</p>
+</div>

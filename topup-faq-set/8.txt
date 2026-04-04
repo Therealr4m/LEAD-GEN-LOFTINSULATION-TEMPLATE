@@ -1,0 +1,24 @@
+<div class="faq-item">
+<h3>What happens if insulation blocks airflow?</h3>
+<p>Correct installation ensures ventilation paths remain clear so moisture cannot build up in the roof space.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is insulation installed across the whole loft?</h3>
+<p>Yes, insulation is typically installed across the entire loft floor to maintain consistent thermal coverage.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation work instantly?</h3>
+<p>Once installed, insulation immediately begins slowing the rate at which heat escapes through the roof.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can loft insulation help with winter heating?</h3>
+<p>Increasing insulation depth helps the property retain warmth for longer after heating is used.</p>
+</div>
+
+<div class="faq-item">
+<h3>Do loft insulation top-ups require structural changes?</h3>
+<p>In most cases they do not, although minor adjustments may be needed if boards or storage limit insulation depth.</p>
+</div>

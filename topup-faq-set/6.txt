@@ -1,0 +1,24 @@
+<div class="faq-item">
+<h3>Why does heat escape through the roof?</h3>
+<p>Warm air naturally rises, and without sufficient insulation it can pass through the ceiling and escape through the roof structure.</p>
+</div>
+
+<div class="faq-item">
+<h3>Is loft insulation suitable for most properties?</h3>
+<p>Most homes with accessible loft spaces can benefit from improved insulation depth.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can insulation be installed around pipes and cables?</h3>
+<p>Yes, but installation must be carried out carefully so insulation is not compressed or interfering with services.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation require ongoing maintenance?</h3>
+<p>Loft insulation usually requires very little maintenance once installed correctly.</p>
+</div>
+
+<div class="faq-item">
+<h3>How long does loft insulation typically last?</h3>
+<p>When kept dry and undisturbed, loft insulation can remain effective for many years.</p>
+</div>

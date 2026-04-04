@@ -1,0 +1,24 @@
+<div class="faq-item">
+<h3>Why are loft insulation top-ups common in older homes?</h3>
+<p>Many older properties were insulated when recommended depths were much lower than current standards.</p>
+</div>
+
+<div class="faq-item">
+<h3>Will insulation improve temperature consistency?</h3>
+<p>Yes, improved insulation depth helps stabilise indoor temperatures throughout the property.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does loft insulation reduce draughts?</h3>
+<p>While insulation mainly reduces heat loss through the roof, it can contribute to a more stable indoor environment.</p>
+</div>
+
+<div class="faq-item">
+<h3>Can insulation be installed around loft hatches?</h3>
+<p>Yes, insulation is installed carefully around access points to maintain consistent coverage.</p>
+</div>
+
+<div class="faq-item">
+<h3>Does insulation improve EPC ratings?</h3>
+<p>Improving loft insulation depth can contribute to better energy efficiency ratings.</p>
+</div>
