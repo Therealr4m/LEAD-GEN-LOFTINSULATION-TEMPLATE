@@ -1,0 +1,1 @@
+While PIR boards offer strong thermal efficiency, the final performance always depends on correct installation. Boards must be cut precisely and fitted tightly to prevent gaps that could allow heat to escape around the insulation.

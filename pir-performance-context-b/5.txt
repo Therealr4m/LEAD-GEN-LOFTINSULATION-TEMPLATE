@@ -1,0 +1,1 @@
+However, the overall performance of PIR insulation depends heavily on how it is installed. Even small gaps between boards or poorly sealed joints can create thermal bridging, allowing heat to bypass the insulation and reducing the effectiveness of the system.

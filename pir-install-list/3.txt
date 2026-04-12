@@ -1,0 +1,6 @@
+<ul>
+<li>Careful board measurement before installation</li>
+<li>Consistent fitting across the entire insulation area</li>
+<li>Preventing heat loss through poorly fitted edges</li>
+<li>Maintaining correct ventilation gaps above insulation</li>
+</ul>

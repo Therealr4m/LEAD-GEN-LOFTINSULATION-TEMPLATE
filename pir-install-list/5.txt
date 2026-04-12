@@ -1,0 +1,6 @@
+<ul>
+<li>Board sizing matched to the loft’s structural layout</li>
+<li>Close fitting insulation to reduce heat leakage</li>
+<li>Preventing gaps that weaken the thermal layer</li>
+<li>Maintaining airflow to reduce condensation risk</li>
+</ul>

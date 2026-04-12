@@ -1,0 +1,1 @@
+Insulation performance is not determined by the material alone. Correct board sizing, tight fitting, and proper joint sealing all play a role in ensuring the insulation performs to its intended thermal specification.
