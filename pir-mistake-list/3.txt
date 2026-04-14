@@ -1,0 +1,5 @@
+<li><strong>Loose board installation</strong> – Gaps allow thermal bridging through the roof structure.</li>
+<li><strong>Missing foil joint sealing</strong> – Poor sealing reduces the effectiveness of the insulation layer.</li>
+<li><strong>Restricted roof ventilation</strong> – Blocking airflow pathways increases moisture risk.</li>
+<li><strong>Incorrect insulation specification</strong> – Board thickness must match required U-value targets.</li>
+<li><strong>Improper board compression</strong> – Distorting boards reduces their insulation consistency.</li>

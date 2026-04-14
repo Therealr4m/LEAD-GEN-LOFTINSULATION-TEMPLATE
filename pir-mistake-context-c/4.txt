@@ -1,0 +1,1 @@
+PIR boards perform best when installation details are handled carefully, including board sizing, cutting accuracy and airflow design.

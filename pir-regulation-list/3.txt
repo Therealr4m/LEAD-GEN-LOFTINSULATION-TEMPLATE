@@ -1,0 +1,4 @@
+<li>Cold roof insulation commonly targets a U-value close to 0.16 W/m²K</li>
+<li>Warm roof and loft conversion systems require tighter standards</li>
+<li>PIR board thickness is determined by rafter depth and design goals</li>
+<li>Airflow pathways must remain open to manage moisture correctly</li>

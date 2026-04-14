@@ -1,0 +1,5 @@
+<li><strong>Gaps between boards and rafters</strong> – Even small gaps allow heat to bypass the insulation, reducing its rated performance.</li>
+<li><strong>No foil tape sealing</strong> – Failing to seal board joints properly weakens the vapour control layer.</li>
+<li><strong>Blocking ventilation pathways</strong> – Restricting airflow can increase condensation risk within the roof space.</li>
+<li><strong>Incorrect board thickness selection</strong> – Installing boards without calculating target U-values can lead to underperformance.</li>
+<li><strong>Over-compressing or forcing boards into place</strong> – This can distort the structure or reduce thermal consistency.</li>

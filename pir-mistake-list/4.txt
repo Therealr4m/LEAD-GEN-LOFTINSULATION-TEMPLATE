@@ -1,0 +1,5 @@
+<li><strong>Air gaps around boards</strong> – Small gaps allow warm air to escape through the roof structure.</li>
+<li><strong>Unsealed PIR joints</strong> – Foil tape sealing helps maintain the vapour barrier.</li>
+<li><strong>Ventilation paths blocked</strong> – Airflow must remain open to prevent moisture buildup.</li>
+<li><strong>Wrong PIR board thickness</strong> – Incorrect sizing can lead to weak insulation performance.</li>
+<li><strong>Boards forced into tight spaces</strong> – Distortion can reduce the effectiveness of the insulation layer.</li>

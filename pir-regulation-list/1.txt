@@ -1,0 +1,4 @@
+<li>Cold loft insulation typically targets around 0.16 W/m²K</li>
+<li>Habitable loft conversions usually require stricter thermal standards</li>
+<li>Board thickness must be calculated based on rafter depth and structure</li>
+<li>Ventilation pathways must remain clear to prevent condensation</li>

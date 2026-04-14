@@ -1,0 +1,1 @@
+Even high-performance PIR boards can underperform if installation details are incorrect. Ventilation pathways, vapour control layers and fitting accuracy all influence the final result.

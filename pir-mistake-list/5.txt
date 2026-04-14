@@ -1,0 +1,5 @@
+<li><strong>Poor board alignment</strong> – Uneven fitting allows heat to escape around insulation boards.</li>
+<li><strong>Missing joint sealing</strong> – Without foil tape, the insulation layer loses airtightness.</li>
+<li><strong>Ventilation gaps blocked</strong> – Proper airflow must remain above the insulation layer.</li>
+<li><strong>Incorrect PIR specification</strong> – Board thickness must match the thermal target.</li>
+<li><strong>Board compression during installation</strong> – Over-tight fitting can reduce consistent performance.</li>
