@@ -1,0 +1,1 @@
+Incorrect installation can also block airflow at the eaves, which may lead to condensation and moisture issues over time.
