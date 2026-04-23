@@ -1,4 +1,6 @@
+<ul>
 <li>Roof insulation targets typically aim for around 0.16 W/m²K in cold lofts</li>
 <li>Loft conversions often require stronger thermal performance levels</li>
 <li>Board thickness is calculated based on structure and insulation design</li>
 <li>Ventilation must remain functional to prevent condensation risks</li>
+</ul>

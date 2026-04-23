@@ -1,4 +1,6 @@
+<ul>
 <li>Typical cold lofts aim for roof insulation around 0.16 W/m²K</li>
 <li>Converted loft spaces often require improved thermal performance</li>
 <li>PIR board thickness depends on rafter depth and installation method</li>
 <li>Ventilation design must be maintained alongside insulation upgrades</li>
+</ul>

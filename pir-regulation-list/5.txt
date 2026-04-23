@@ -1,4 +1,6 @@
+<ul>
 <li>Cold loft insulation usually aims for thermal performance around 0.16 W/m²K</li>
 <li>Habitable loft spaces require higher insulation standards</li>
 <li>Correct PIR board thickness depends on the roof structure</li>
 <li>Ventilation pathways must remain clear to control moisture</li>
+</ul>

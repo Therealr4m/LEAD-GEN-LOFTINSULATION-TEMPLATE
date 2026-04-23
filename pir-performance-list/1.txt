@@ -1,4 +1,6 @@
+<ul>
 <li>Delivers strong thermal resistance per millimetre of thickness</li>  
 <li>Helps reduce heat loss through the roof structure</li>  
 <li>Supports improved home energy efficiency</li>  
 <li>Maintains performance even in tighter roof constructions</li>
+</ul>

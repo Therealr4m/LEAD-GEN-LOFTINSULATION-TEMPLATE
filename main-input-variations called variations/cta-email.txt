@@ -1,9 +1,0 @@
-Email your enquiry today and we’ll respond with details for your {{LOCATION}} {{MAIN_SERVICE}} project.
-
-Email us with a few details about your property and we’ll respond with pricing for {{MAIN_SERVICE}} in {{LOCATION}}.
-
-Email your enquiry and we’ll confirm availability for {{MAIN_SERVICE}} in {{LOCATION}}.
-
-Email today with your enquiry and we’ll respond with pricing for {{MAIN_SERVICE}} in {{LOCATION}}.
-
-Send your enquiry by email and we’ll reply with pricing for {{MAIN_SERVICE}} in {{LOCATION}}.

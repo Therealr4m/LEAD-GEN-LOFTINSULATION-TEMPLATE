@@ -1,5 +1,7 @@
+<ul>
 <li><strong>Poor board fitting</strong> – Gaps between boards reduce insulation performance and allow heat loss.</li>
 <li><strong>Unsealed joints</strong> – Missing foil tape can weaken vapour control and reduce airtightness.</li>
 <li><strong>Ventilation obstruction</strong> – Blocking airflow paths increases the likelihood of condensation.</li>
 <li><strong>Incorrect PIR thickness</strong> – Boards that are too thin may not meet target insulation performance.</li>
 <li><strong>Boards forced into place</strong> – Distorting boards can reduce consistent insulation coverage.</li>
+</ul>
